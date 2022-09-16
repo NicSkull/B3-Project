@@ -1,0 +1,17 @@
+@media(max-width: 767px){
+    html {
+      font-size: 55%;
+    }
+    
+    
+    .footer-col{
+      width: 50%;
+      margin-bottom: 30px;
+    }
+}
+
+@media(max-width: 574px){
+    .footer-col{
+      width: 100%;
+    }
+}
